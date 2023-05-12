@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yazid</h1>
+<h3 align="center">Looking for an opportunity as a Software Engineer</h3>
 
-<!--
-**YazidKurdi/YazidKurdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Experience in:
+- Backend web development (Django,Flask)
+- Frontend web development (Vue.js)
+- Bootstrap styling
+- Docker
+- Data structures & algorithms
+- Machine Learning
+- Data Analysis
+- Cryptocurrency
 
-Here are some ideas to get you started:
+## 💻 Latest project
+- [Recipe Manager](https://recipe-manager-sx8q4.ondigitalocean.app/#/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me: ...
+<a href="mailto:yazeedkurdi@hotmail.com">Email</a> - <a href="https://www.linkedin.com/in/yazid-kurdi-066b53181/">LinkedIn</a> - <a href="https://twitter.com/YazidKurdiR">Twitter</a>
