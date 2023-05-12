@@ -9,7 +9,7 @@
 - Data structures & algorithms
 - Machine Learning
 - Data Analysis
-- Cryptocurrency
+- Bitcoin
 
 ## 💻 Latest project
 - [Recipe Manager](https://recipe-manager-sx8q4.ondigitalocean.app/#/)
