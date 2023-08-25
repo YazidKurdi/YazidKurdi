@@ -4,7 +4,8 @@
 ## 💬 Experience in:
 - Backend web development (Django,Flask)
 - Frontend web development (Vue.js)
-- Bootstrap styling
+- Tailwind
+- Bootstrap
 - Docker
 - Data structures & algorithms
 - Machine Learning
