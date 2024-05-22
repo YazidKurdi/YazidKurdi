@@ -2,9 +2,10 @@
 <h3 align="center">Looking for an opportunity as a Software Engineer</h3>
 
 ## 💬 Experience in:
-- Backend web development (Django,Flask)
-- Frontend web development (Vue.js)
+- Backend web development (Django,Flask,FastAPI)
+- Frontend web development (React, NextJS, Vue.js, Svelte)
 - Tailwind
+- Material UI
 - Bootstrap
 - Docker
 - Data structures & algorithms
