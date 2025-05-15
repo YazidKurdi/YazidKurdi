@@ -13,8 +13,6 @@
 - Data Analysis
 - Bitcoin
 
-## 💻 Latest project
-- [Recipe Manager](https://recipe-manager-sx8q4.ondigitalocean.app/#/)
 
 ## 📫 How to reach me: ...
 <a href="mailto:yazeedkurdi@hotmail.com">Email</a> - <a href="https://www.linkedin.com/in/yazid-kurdi-066b53181/">LinkedIn</a> - <a href="https://twitter.com/YazidKurdiR">Twitter</a>
